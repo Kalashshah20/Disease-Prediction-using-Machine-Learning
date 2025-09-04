@@ -90,9 +90,9 @@ This project builds a machine learning-based disease prediction system using pat
 - Deploy as a web/mobile app (Streamlit/Flask) with clinician-friendly UI.
 
 
-## **🙏 Acknowledgements
+## **🙏 Acknowledgements**
 
-Thanks to faculty & industry mentors and peers of NMIMS
+Thanks to faculty, industry mentors and peers of NMIMS
 
-## **👤 Author
+## **👤 Author**
 Kalash Shah
