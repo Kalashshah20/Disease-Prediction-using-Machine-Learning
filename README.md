@@ -34,13 +34,13 @@ This project builds a machine learning-based disease prediction system using pat
 
 ## **🚀 Getting Started**
 
-# 1) Data Collection
+ 1) Data Collection
 - Gather a dataset containing patient symptoms, medical history and diagnosis information. 
 
-# 2) Identify the Technolgies to use
+ 2) Identify the Technolgies to use
 - In this case Visual Studio Code & Jupyter Notebook
 
-# 3) Select which Libraries and ML Models to use
+ 3) Select which Libraries and ML Models to use
 - pandas
 - numpy
 - scikit-learn
@@ -50,41 +50,41 @@ This project builds a machine learning-based disease prediction system using pat
 - seaborn
 - jupyterlab
 
-# 4) Install Libraries
+ 4) Install Libraries
 
-# 5) Prepare dataset folder and example file location
+ 5) Prepare dataset folder and example file location
 
 - Place your dataset CSV 
 - Expected columns (example): age, gender, heart_rate, blood_pressure, cholesterol, symptom_1, symptom_2, ..., label
 - IMPORTANT: Ensure patient data is anonymized and you have data usage permissions.
 
-# 6) Run preprocessing to generate cleaned files and train/test splits
+ 6) Run preprocessing to generate cleaned files and train/test splits
 
-# 7) Train the model 
+ 7) Train the model 
 
-# 8) Evaluate model performance on test set
+ 8) Evaluate model performance on test set
 
-# 9) Visualize EDA & results using notebooks
+ 9) Visualize EDA & results using notebooks
 
-## **📊 Results (example)
+## **📊 Results (example)**
 
 - Metrics reported: Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix.
 - Sample (example): Accuracy: 0.85 | Precision: 0.82 | Recall: 0.80 | F1: 0.81
 (See results/ for full metric tables and plots.)
 
-## **🛠️ Tools & Libraries
+## **🛠️ Tools & Libraries**
 
 - Core: Python, Jupyter, VS Code
 - Data & ML: pandas, numpy, scikit-learn, xgboost, tensorflow/torch
 - Visualization: matplotlib, seaborn
 
 
-## **💡 Limitations & Ethical Considerations
+## **💡 Limitations & Ethical Considerations**
 
 - Model performance depends heavily on dataset size, quality, and class balance.
 - Patient privacy and data security are critical — anonymize data, follow institutional guidelines, and restrict access.
 
-## **🔭 Future Work
+## **🔭 Future Work**
 
 - Expand dataset (more samples, diverse sources) and re-evaluate generalization.
 - Deploy as a web/mobile app (Streamlit/Flask) with clinician-friendly UI.
